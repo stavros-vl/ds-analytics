@@ -14,6 +14,8 @@ To better understand what Outbound marketing is and the challenges it poses, as 
 
 The dataset we are dealing with is heavily imbalanced, which means that the positive examples are much fewer than the negative ones. Based on this observation, we decided to approach this as an anomaly detection problem and used techniques to combat the imbalanced classes.
 
+### Features
+
 | Field | Description |
 |-------|-------------|
 |region |The region where the account is located|
