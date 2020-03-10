@@ -8,7 +8,7 @@
 
 The goal of the following project is to create an account scoring model for Outbound accounts. The main motivation for such a model is to to aid in the distribution of accounts from managers to the SDR's(Sales Development Representatives) and ultimately help them lift their conversion rates(account to qualified lead) and consequently increase sales and revenue for the company.
 
-To better understand what Outbound marketing is and the challenges it poses, as well as the difference with Inbound marketing, this article by Hubspot is very helpful.
+To better understand what Outbound marketing is and the challenges it poses, as well as the difference with Inbound marketing, this [article by Hubspot](https://blog.hubspot.com/blog/tabid/6307/bid/2989/inbound-marketing-vs-outbound-marketing.aspx) is very helpful.
 
 ### Challenges/Approach
 
